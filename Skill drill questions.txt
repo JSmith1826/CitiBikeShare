@@ -1,0 +1,13 @@
+Notes in tableau section
+
+What questions to ask about weither a bike share program would work in a new city
+
+How similar are the demographics in the two places?
+
+is there a specific demo that ustilizes the service the most and does de moine have people in that demographic?
+
+How often are the bikes utilized (per day, per week)
+
+what is the length of the rides
+
+how densely populated are the pick up and drop off points?
